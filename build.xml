@@ -1,7 +1,8 @@
 <?xml version="1.0"?>
 <project name="SampleJavaProject - changing push to test" default="jar"
          xmlns:ivy="antlib:org.apache.ivy.ant">
-
+<project name="SampleJavaProject - second line to test" default="jar"
+         xmlns:ivy="antlib:org.apache.ivy.ant">
   <!-- Project-specific configuration -->
   <loadproperties srcfile="project.properties"/>
   <property name="main.class" value="${package.main}.${ant.project.name}"/>
