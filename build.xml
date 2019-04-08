@@ -1,5 +1,5 @@
 <?xml version="1.0"?>
-<project name="SampleJavaProject - test push function" default="jar"
+<project name="SampleJavaProject - changing push to test" default="jar"
          xmlns:ivy="antlib:org.apache.ivy.ant">
 
   <!-- Project-specific configuration -->
